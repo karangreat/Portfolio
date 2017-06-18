@@ -1,0 +1,147 @@
+body {
+		  background-image: url(1.jpg);
+	}
+
+.p2 {
+	font-size: 40px;
+	color: #e2a3b3;
+	border: 2px solid transparent;
+	margin: 150px 700px 0px 20px;
+	line-height: 1.5;
+	
+
+
+}
+
+.p1 {
+		width: 500px;
+		text-align: center; 
+		color:#75dddc;
+		font-size: 40px; 
+		font-family: 'Imprint MT Shadow Regular';
+		border: 5px ridge #bbedec;
+		border-radius: 8px;
+		padding: 8px 5px;
+		margin: 0 auto ;
+	}
+
+.nav1 a:link {
+			text-decoration: none;
+			color: #75dddc;
+			font-size: 25px;
+			border: 1px solid #662121;
+			border-radius: 5px;
+			background-color: #871835;
+			padding: 14px 80px;
+    		text-align: center;
+    		display: inline-block;
+	}
+
+.nav1 a:visited {
+				text-decoration: none;
+				color: #75dddc;
+				font-size: 25px;
+	}
+
+.nav1 a:hover {
+			background-color:#5b1f2f;
+			color: #75dddc;
+			/*padding: 5px;
+			font-size: 25px;
+			border: 10px solid #8d73d1;*/
+	}
+
+.img1 {
+	    width: 45%;
+	    height: 70%;
+	    transform: rotate(90deg);
+	    position: absolute;
+	    left: 750px;
+	    top: 320px;
+}
+
+.p3 {
+	text-align: left;
+	font-size: 35px;
+	color: white;
+	margin: 7% 42% 0% 3%;
+	line-height: 1.5;
+}
+
+.p4 {
+	text-align: left;
+	font-size: 25px;
+	color: white;
+	padding-bottom: 15%;
+	border-bottom: 5px solid powderblue; 
+	margin:8% 0% 0% 4%;
+
+}
+
+.p5 {
+	text-align: left;
+	font-size: 25px;
+	color: white;
+	padding-bottom: 18%;
+	border-bottom: 5px solid powderblue; 
+	margin:1% 0% 0% 4%;
+
+}
+
+.p6 {
+	text-align: left;
+	font-size: 35px;
+	color: white;
+	margin:8% 30% 0% 3%;
+	line-height: 1.8;
+}
+
+.p7 {
+	text-align: center;
+	font-size: 45px;
+	color: white;
+	margin-top: 5%;
+}
+
+.p8 {
+	text-align: center;
+	font-size: 45px;
+	color: white;
+	margin:0% 0% 0% 0%;
+}
+
+.insta {
+		height: 8%;
+		width: 8%;
+		position: relative;
+		top: 32px;
+		left: 36%;
+}
+
+.fb {
+	height: 7%;
+	width: 7%;
+	position: relative;
+	top: 27px;
+	left: 48%;
+}
+
+.indore {
+		height: 300px;
+		position: relative;
+		top: -250px;
+		left: 830px;
+}
+
+.theresa {
+		  height: 280px;
+		  position: absolute;
+		  right: 12%;
+		  top: 240px;
+}
+
+.kgp {
+	   position: absolute;
+	   height: 40%;
+	   right: 12%;
+}
